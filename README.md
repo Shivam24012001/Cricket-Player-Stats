@@ -1,4 +1,4 @@
-# **Cricket Player Stats Lookup Using XLOOKUP in Google Sheets**
+# **Cricket Player Stats Lookup Using XLOOKUP in Google Sheets** 
 
 ## **📌 Project Overview**
 This project demonstrates the use of **XLOOKUP** in Google Sheets to retrieve player statistics, match details, and awards received by various cricket players. The dataset consists of multiple records detailing matches played and awards won, and the queries provided in the **"Questions"** tab are solved using **XLOOKUP**.
