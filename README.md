@@ -6,7 +6,7 @@ This project demonstrates the use of **XLOOKUP** in Google Sheets to retrieve pl
 
 ---
 
-## **📊 Key Features**
+## **📊 Key Features** 
 ✅ **Player Lookup** – Fetch details of matches played and awards received by individual players.  
 ✅ **Dynamic Searching** – Use **XLOOKUP** to search for player statistics efficiently.  
 ✅ **Error Handling** – Handle missing values with default outputs to avoid errors.  
