@@ -11,7 +11,7 @@ This project demonstrates the use of **XLOOKUP** in Google Sheets to retrieve pl
 ✅ **Dynamic Searching** – Use **XLOOKUP** to search for player statistics efficiently.  
 ✅ **Error Handling** – Handle missing values with default outputs to avoid errors.  
 ✅ **Flexible Matching** – Implement **XLOOKUP** options such as exact matches, approximate matches, and wildcard searches.  
-✅ **Optimized Data Retrieval** – Utilize **search modes** for better performance. 
+✅ **Optimized Data Retrieval** – Utilize **search modes** for better performance.  
 
 ---
 
